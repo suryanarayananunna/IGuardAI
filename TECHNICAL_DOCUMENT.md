@@ -18,7 +18,7 @@ The project objective is to provide active focus protection using multimodal mon
 - Optional home Wi-Fi level activity signals
 
 ## 3. Product Goals
-- Define a clear focus goal and session duration.
+- Define a clear focus goal and session duration. And time line
 - Detect distraction with low latency.
 - Warn users quickly and non-intrusively.
 - Provide session analytics (focus score, distraction timeline).
